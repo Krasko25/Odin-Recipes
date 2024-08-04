@@ -7,7 +7,17 @@ li.recipes-list-elem{
     list-style-type: none;
 }
 
-ul{
+.ingredients-list-item{
+    padding: 2px;
+    margin-left: 20px;
+}
+
+.directions-list-item{
+    padding: 2px;
+    margin-left: 20px;
+}
+
+ul, ol{
     padding: 0px;
     margin-left: 0px;
 }
@@ -46,4 +56,13 @@ ul li.recipes-list-elem{
 
 ul{
     width:400px;
+}
+
+.recipe-result-img-div{
+    display: flex;
+    justify-content: center;
+}
+
+.recipe-result-img-itself{
+    width: 400px;
 }
