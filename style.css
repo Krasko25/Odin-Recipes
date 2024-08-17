@@ -23,12 +23,12 @@ ul, ol{
 }
 
 a.home-link:hover {
-    color:dodgerblue;
+    text-decoration: underline;
 }
 
-a.home-link{
-    text-decoration: underline;
-    font-size:20px;
+.red-highlight{
+    background-color: rgb(251, 165, 165);
+    text-align: center;
 }
 
 body{
