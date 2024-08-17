@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+.main-block{
+    width:700px;
+    display:inline-block;
+}
