@@ -22,8 +22,13 @@ ul, ol{
     margin-left: 0px;
 }
 
-a:hover{
+a.home-link:hover {
     color:dodgerblue;
+}
+
+a.home-link{
+    text-decoration: underline;
+    font-size:20px;
 }
 
 body{
@@ -36,6 +41,7 @@ body{
 
 .main-block{
     width:700px;
+    margin-bottom: 25px;
 }
 
 h1{
@@ -64,5 +70,5 @@ ul{
 }
 
 .recipe-result-img-itself{
-    width: 400px;
+    width: 700px;
 }
