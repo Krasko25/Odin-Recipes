@@ -37,6 +37,7 @@ body{
     align-content: center;
     justify-content: center;
     overflow: auto;
+    font-family:'Times New Roman', serif;  
 }
 
 .main-block{
